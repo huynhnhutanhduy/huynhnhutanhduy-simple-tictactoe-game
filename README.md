@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 This is a project about a simple tic-tac-toe game (3x3) and does not have responsive design yet.
 
+# Link demo
+
+`https://simple-tictactoe-game.vercel.app/`
+
 ## Available Scripts
 
 In the project directory, you can run:
