@@ -5,7 +5,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-This is a project about a simple tic-tac-toe game (3x3) and does not have responsive design yet.
+
+This is a project about a simple tic-tac-toe game (3x3) website and does not have responsive design yet.
 
 ## Available Scripts
 
